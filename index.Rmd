@@ -1,0 +1,35 @@
+---
+title: "Emily Schwabe"
+image: "frank.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/emilyschwabe"
+  - label: GitHub
+    url: "https://github.com/emilykschwabe"
+  - label: Email
+    url: "mailto:emilykschwabe@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Frank Hermosillo studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+B.S. Marine Biology | September 2017 - June 2021
+
+
+## Experience
+
+**California Sea Grant Delta Science** | Research Assistant | January 2020 - Present
+
+
